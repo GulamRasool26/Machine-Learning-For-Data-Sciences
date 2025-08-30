@@ -73,7 +73,7 @@ All content is for educational purposes only.
 Feel free to connect for collaboration, questions, or discussions about data science & machine learning!  
 
 📧 **gulamrasool2026@gmail.com**  
-🔗 [LinkedIn](www.linkedin.com/in/gulam-rasool2026)  
+🔗 [LinkedIn](https://www.linkedin.com/in/gulam-rasool-02453a303/)  
 🐍 [GitHub](https://github.com/GulamRasool26)  
 
 ---
